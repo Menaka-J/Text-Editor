@@ -1,10 +1,6 @@
 # Text-Editor
 
-Here's a professional, complete `README.md` for your **Text Editor Web App** project, suitable for GitHub:
 
----
-
-# 📝 Rich Text Editor Web App
 
 A responsive, modern web-based **rich text editor** built using **HTML**, **CSS**, and **JavaScript**. It allows users to style, format, and export content with ease. The tool supports formatting options like bold, italics, alignment, lists, heading levels, color selection, and more — along with **dark mode**, **PDF/HTML export**, and **word count tracking**.
 
